@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title> Gangsterinos </title> 
+	
+	<meta charset="utf-8">
+	
+	<link href="css/GangsterESS.css" rel="stylesheet">
+	
+	
+	
+	
+	
+	
+	<style>
+	
+		*{margin: 0;} 
+	
+		body{
+    
+			
+			}
+	
+		nav{
+		    width:100%;
+			background-color:#0000000;
+			height:100%;
+			px;
+
+			}
+		nav ul{
+			text-align:center;
+			} 
+		nav ul li{
+			list-style:none;
+			display: inline-block;
+			}
+		nav ul li a{
+			display:block;
+			text-decoration:none;
+			text-transform: uppercase;
+			color:black;
+			font-size: 20px;
+			font-family:'Raleway', Sans-Serif;
+			letter-spacing:2px;
+			font-weight:600;
+			padding:40px;
+			}
+		nav ul li a:hover{
+		background-color: #211b4385;
+		transition:all ease 1.5s;
+		
+		}
+		
+						
+		#grad1 {
+		  height: 10px;
+		  width: 30px;
+		  background-color: red;
+		  background-image: linear-gradient(to up, , white, gold);
+		}
+		
+		
+			 
+	
+	</style>
+	
+</head>
+
+
+<body>
+
+
+<header>
+	<div class="container2">
+<a href="Gangsterinos.html"><img src="images/Gang3.png"alt="Falcon Fitness Center Logo" height="120" width="130"></a> <br>
+<nav height="300">
+	<ul>
+		<li><a href="Order.html">Order</a></li> &nbsp; &nbsp;
+
+		<li><a href="About.html">About Us</a></li> &nbsp; &nbsp;
+
+		<li><a href="Calendar.html">Calendar</a></li> &nbsp; &nbsp;
+
+		<li><a href="Menu.html">Menu</a></li> &nbsp; &nbsp;
+
+		<li><a href="Reviews.html">Reviews</a></li>
+	
+	</ul>
+</nav>
+	
+</header>
+
+
+
+<main>
+</div>
+<h1> Whats Our Mission?</h1>
+<center><h2> Here at Gangsterinos our mission is to provide all of Florida delicious home made tacos at a affordable price</h2></center>
+<br><br><br>
+<h1> Our Story</h1>
+<center><h2>Back in 2022 Master Chef Maikel Marrero was inspired by the taco stands of Tijuana<br> to bring an authentic taco experience north to Florida. After perfecting his recepies with freinds and family, Gangsterinos was born.</h2></center>
+
+
+
+
+</main>
+
+
+
+<footer style="clear: both;">
+	
+	<small>&copy; Copyright 2022 All Rights Reserved.</small><a
+	href="mailto:falconfitnesscenter515@gmail.com">falconfitnesscenter515@gmail.com</a>
+	<a href="https://www.instagram.com"><img class="equip" src="images/insta.jfif" alt="Picture a person using our cardio machines!" height="%5" width="10">
+	<a href="https://www.TikTok.com/en/"><img class="equip" src="images/tik tok.jpg" alt="Picture a person using our cardio machines!" height="10" width="10">
+	<a href="https://www.youtube.com/channel/UCbPMMKzp8K-IUUHmoQelXSA"><img class="equip" src="images/yt.png" alt="Picture a person using our cardio machines!" height="10" width="10">
+	<a href="https://twitter.com/FalconCove"><img class="equip" src="images/twitter.png" alt="Picture a person using our cardio machines!" height="10" width="10"><img class="equip" src="images/MiniLogo2.png" alt="Picture a person using our cardio machines!" height="15" width="15">
+ 
+	
+</footer>
+
+</body>
+
+</html>
