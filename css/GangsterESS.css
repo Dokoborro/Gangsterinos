@@ -1,0 +1,117 @@
+
+
+text{
+	height:200px;
+}
+
+body{
+		background-color:#A67DFD;
+		color:#FFFF33;
+		font-family: Times New Roman;
+		font-size: 15pt;
+		text-align: ;
+		
+		}
+
+
+h1 {
+		background-color: ;
+		color: #FFFF33;
+		font-weight: 420;
+		font-style:small-caps;
+		text-align: center;
+		font-size:60px;
+	
+		}
+		
+p	{
+		
+		
+		}
+		
+ul {
+	
+		/*display: inline-block;
+		border: solid 1px black;
+		padding: 30px;
+		padding-bottom:5px;
+		margin: 10px;
+		border-style: groove;
+		border-width: 12px;
+		border-color: aqua;
+		border-bottom-color: pink;
+		border-left-color: orange;
+		border-top-color: #99ffe6;
+		border-right-color: gold;
+		border-radius: 20px;
+		text-align: left;*/
+		}
+	
+	
+	
+	
+.container1 {
+			
+			margin-left: auto;
+			margin-right: auto;
+			
+				}
+				
+.container2 {
+			
+			display: flex
+				}
+				
+.pre{
+	font-size: 40px;
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+.calender{
+           
+            max-width: 1000px;
+            font-family: serif;
+            font-weight: bold;
+            color: black;
+            margin: 10% 10%;
+}
+.month{
+            text-align: center;
+            background:#00264d;
+            font-size: 80px;
+            letter-spacing: 1px;
+            color: yellow;
+            border:3px solid blue;
+}
+table, th, td{
+            width: 100%;
+            table-layout: fixed;
+            text-align: center;
+            font-size: 27px;
+            border-collapse: collapse;
+            border:5px solid black;
+            font-family: Elaphant;
+}
+tr, th, td{
+            padding: 15px;
+}
+th{
+            background: #A67DFD;
+            color: white;
+            font-family: arial black;
+}
+td{
+            background: #00264d;
+            color: yellow;
+}
+td:hover{
+            background: #A67DFD;
+}
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+
